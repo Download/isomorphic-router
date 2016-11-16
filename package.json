@@ -17,23 +17,23 @@
   },
   "homepage": "https://github.com/elierotenberg/isomorphic-router",
   "devDependencies": {
-    "babel-eslint": "^3.1.9",
-    "del": "^1.2.0",
-    "eslint-plugin-react": "^2.3.0",
+    "babel-eslint": "^7.1.0",
+    "del": "^2.2.2",
+    "eslint-plugin-react": "^6.7.1",
     "gulp": "^3.8.11",
-    "gulp-babel": "^5.1.0",
-    "gulp-eslint": "^0.12.0",
-    "gulp-insert": "^0.4.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-eslint": "^3.0.1",
+    "gulp-insert": "^0.5.0",
     "gulp-plumber": "^1.0.1",
-    "gulp-sourcemaps": "^1.5.2",
+    "gulp-sourcemaps": "^2.2.0",
     "gulp-util": "^3.0.4"
   },
   "dependencies": {
-    "babel": "^5.4.7",
-    "babel-runtime": "^5.4.7",
-    "bluebird": "^2.9.26",
-    "lodash": "^3.9.2",
+    "babel": "^6.5.2",
+    "babel-runtime": "^6.18.0",
+    "bluebird": "^3.4.6",
+    "lodash": "^4.17.2",
     "path-to-regexp": "^1.2.0",
-    "should": "^6.0.3"
+    "should": "^11.1.1"
   }
 }
