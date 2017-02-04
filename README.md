@@ -1,6 +1,8 @@
 Isomorphic Router
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Download/isomorphic-router.svg)](https://greenkeeper.io/)
+
 Tiny, lightweight, simple isomorphic router.
 
 Internally, it uses the same path-matching engine than `express`, but it's exposed directly to be usable in an isomorphic context.
